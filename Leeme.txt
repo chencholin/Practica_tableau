@@ -2,12 +2,12 @@ El "Dashboard Principal" es el dashboard que hay que visualizar.
 Queria hacer algo que recogiera un poquito de todo lo que hemos visto
 pero La verdad que en una semana da poco tiempo para asimilar y poner en practica
 todo el contenido.
-Me he hecho la pregunta ¿para que me sirven estos datos? ¿como puedo ponerlos darles algun valor?
-ya hemos visto en las clases que podemos analizar en la evolucion del tiempo
-diferentes medidas y dimensiones. pero a la pregunta si tuviera estos datos
+Al hacerme las preguntas ¿para que me sirven estos datos? ¿como puedo  darles algun valor o alguna utilidad?
+ya hemos visto en las clases que podemos utilizar estos datos para analizar en la evolucion del tiempo
+diferentes medidas y dimensiones. Pero a la pregunta si tuviera estos datos
 se me ocurrio que podrían valer para aconsejar u orientar a personas
 que por algun motivo (vacaciones, trabajo,etc) tuvieran que pasar una o varias
-estancias en Madrid.Dependiendo del presupuesto de la persona pues se orientaria
+estancias en Madrid (Aunque son dato antiguos no actualizados la idea apartir seria con datos actualizados).Dependiendo del presupuesto de la persona pues se orientaria
 hacia alojamientos y barrios mas baratos o mas caros segun sea el caso.
 Bueno este Es my proyecto.
 cualquier duda sobre el me avisas.
